@@ -1,2 +1,2 @@
 # hello-world
-Manuscript on squirrel motor adaptation leaping from a compliant beam
+Testing out github to see if it will be useful for collaboritively writing a scientific manuscript.
